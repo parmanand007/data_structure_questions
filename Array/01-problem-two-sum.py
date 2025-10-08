@@ -128,3 +128,4 @@ def twoSum_onepass_hashmap(nums: List[int], target: int) -> List[int]:
         num_to_index[num] = i
     
     return []  # Won't reach here as per problem constraints
+
